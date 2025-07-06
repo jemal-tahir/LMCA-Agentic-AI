@@ -1,4 +1,4 @@
-# LMCA-Agentic-AI# 🐐 LMCA – Livestock Market Chain Analyzer (Agentic AI)
+# 🐐 LMCA – Livestock Market Chain Analyzer (Agentic AI)
 
 > Intelligent agent-powered system for analyzing livestock market data, value chain bottlenecks, and price trends using LangChain, Firebase, and OpenAI.
 
